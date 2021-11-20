@@ -1,0 +1,343 @@
+{
+  "todos": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "sdfsdfdsf"
+    },
+    {
+      "title": "array methods",
+      "author": "anji placed",
+      "id": 3
+    },
+    {
+      "title": "jsonobjects",
+      "author": "rupa",
+      "id": 4
+    },
+    {
+      "title": "windowobject",
+      "author": "vishnavi",
+      "id": 5
+    },
+    {
+      "title": "variables hoisitng",
+      "author": "abhilash",
+      "id": 6
+    },
+    {
+      "title": "data types",
+      "author": "kavitha",
+      "id": 7
+    },
+    {
+      "title": "loops",
+      "author": "jnana prakash",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Technologies": {
+    "HTML": {
+      "HTML Foundation": {
+        "Overview of Web": {
+          "Why HTML CSS": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "HyperText",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              },
+              {
+                "title": "Content versus presentation",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          },
+          "HTML and Its Versions": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "Different versions of HTML",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              },
+              {
+                "title": "Creating HTML markup",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "Structure and Text Right": {
+          "Why HTML CSS": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "HyperText",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              },
+              {
+                "title": "Content versus presentation",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          },
+          "HTML and Its Versions": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "Different versions of HTML",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              },
+              {
+                "title": "Creating HTML markup",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "HTMLAdvanced": {
+        "Advanced Elements": {
+          "Understanding the Role of CSS": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "Different versions here, too",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "Adding Links, Images, and Other Media": {
+          "Advantages of Style Sheets": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "Creating CSS markup",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          },
+          "Managing Media and More in HTML": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "Creating CSS markup",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "CSS": {
+      "CSSFoundation": {
+        "CSS Basics": {
+          "Why HTML CSS": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "How and Where Web Pages Come to Life Online",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "Working with Text": {
+          "Styling Text": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "How and Where Web Pages Come to Life Online",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          },
+          "Embedding Web Fonts": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "Adding Web Fonts to Your Sites",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "CSSAdvanced": {
+        "Advanced Elements": {
+          "asd asd Why HTML CSS": {
+            "frontnote": "We use the term HTML throughout this bo",
+            "subtopics": [
+              {
+                "title": "How and Where Web Pages Come to Life Online",
+                "introduction": "Browse the we",
+                "content": [
+                  {
+                    "type": "heading",
+                    "value": "HyperText"
+                  },
+                  {
+                    "type": "paragraph",
+                    "value": "Special instruct"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
